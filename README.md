@@ -45,8 +45,6 @@ Discord Server:[DUELPAD](https://discord.gg/BXeWntUJ8B)
 
 This project is based on the excellent work of GP2040-CE team([Contributors to OpenStickCommunity/GP2040-CE · GitHub](https://github.com/OpenStickCommunity/GP2040-CE/graphs/contributors))
 
-Compared to them, the work of this project is not worth mentioning.
-
 
 
 
