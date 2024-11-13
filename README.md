@@ -10,8 +10,7 @@ Duelpad zen is a split-layout all-button controller, which is based on GP2040-CE
 
 ## **Features**
 
-a navigating stick used with a humble UI,which can change the working status of the controller.
-
+- A navigating stick used with a humble UI,which can change the working status of the controller.
 - Select from 13 input modes including X-Input, Nintendo Switch, Playstation 4/5, Xbox One, D-Input, and Keyboard
 - Input latency average of 0.76ms in Xinput and 0.90ms for Playstation 5.
 - Multiple SOCD cleaning modes - Up Priority (a.k.a. Stickless), Neutral, and Second Input Priority.
