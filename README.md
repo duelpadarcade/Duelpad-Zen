@@ -2,7 +2,7 @@
 
 Duelpad zen is a split-layout all-button controller, which is based on GP2040-CE projects. So it inherits the features, and also is added with something new.
 
-![](\\192.168.0.170\xinole\兴龙乐电子产品listing图片&详情\键盘手柄\Duelpad%20zen%2016\宣传图\8.jpg)
+(https://github.com/duelpadarcade/Duelpad-Zen/blob/main/8.jpg))
 
 
 
