@@ -1,0 +1,111 @@
+(footprint "TestPoint_Pad_D1.5mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "SMD pad as test Point, diameter 1.5mm")
+	(tags "test point SMD pad")
+	(property "Reference" "REF**"
+		(at 0 -1.648 360)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a9e05a6c-bbb4-4002-acc5-f56c0e17ae4f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TestPoint"
+		(at 0 1.75 360)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d8d418c-590e-4973-a03d-9f0995b54a34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86c733d9-650c-490f-ba1c-dba8396d7f7d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2dee5209-19be-4a26-9f56-5e02e8091cd3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "test point"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9238a38-e909-472d-bbfc-81cd9a6bfbee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files)
+	(fp_circle
+		(center 0 0)
+		(end 0 0.95)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "5b80c811-c750-441c-a900-61d735dd06bc")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.25 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "dd72f811-7581-477e-acda-a342d917a4e0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -1.65 360)
+		(layer "F.Fab")
+		(uuid "86a4eb2b-5ac0-40e5-ae21-23dd8602fe91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at 0 0 180)
+		(size 1.5 1.5)
+		(layers "F.Cu" "F.Mask")
+		(uuid "68c52b49-5892-407e-b21f-f9ffb8d0cf97")
+	)
+)

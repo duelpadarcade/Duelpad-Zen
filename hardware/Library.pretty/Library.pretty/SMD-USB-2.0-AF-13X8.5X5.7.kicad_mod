@@ -1,0 +1,202 @@
+(footprint "SMD-USB-2.0-AF-13X8.5X5.7"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "5-pin SOT23 package")
+	(tags "SOT-23-5")
+	(property "Reference" "REF**"
+		(at -5.825 4.01 360)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6f7066c5-41c3-4002-b480-4ee4522cad74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "USB_A"
+		(at -0.4 -2.7 360)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e06a9943-92e9-44fd-ae5a-ae3879468052")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Library:SMD-USB-2.0-AF-13X8.5X5.7"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "bebc6c77-561b-4642-878a-0ae03d78cff1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" " ~"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a72412ab-d770-4de7-ba78-8a0101d5f556")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "07214061-5313-4c3b-bff5-1ebf8f3157f3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start 7 -7.5)
+		(end -7 1.2)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "acddc7cb-4102-4319-9451-9e90b7ce5049")
+	)
+	(fp_rect
+		(start 6.7 1)
+		(end -6.7 -7.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "577b04b9-570e-4942-a09a-f4651df4132e")
+	)
+	(fp_rect
+		(start 8.8 2.8)
+		(end -8.8 -7.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "ea78bcb5-405d-4208-b9bd-3f8a0be0e4e4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.1 -0.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9491a51a-58ce-48f2-b838-0bf7afd7c03d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.1 2.9 360)
+		(layer "F.Fab")
+		(uuid "cc5ecddc-7df6-4141-a754-6a7efdf98465")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 3.5 2.2 90)
+		(size 1.5 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "5ef2c365-6837-4149-b711-0e96c4ea0530")
+	)
+	(pad "2" smd rect
+		(at 1 2.2 90)
+		(size 1.5 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b0b1a477-7ed5-4585-bbfc-f27f0548315c")
+	)
+	(pad "3" smd rect
+		(at -1 2.2 90)
+		(size 1.5 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "a38c01f4-a416-4db6-9fe6-ef75b5e55805")
+	)
+	(pad "4" smd rect
+		(at -3.5 2.2 90)
+		(size 1.5 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "4f36b4fe-623c-456d-8ace-afae9dff8d2b")
+	)
+	(pad "5" thru_hole oval
+		(at -7.775 0 90)
+		(size 2.5 1.2)
+		(drill oval 1.4 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "0737eaaf-6de5-4bf7-bc8c-7c64e73b88c5")
+	)
+	(pad "5" smd rect
+		(at -7.7 -5.3)
+		(size 1.9 1.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "d92b45c4-f7fd-4413-aa27-537346660560")
+	)
+	(pad "5" smd rect
+		(at 7.7 -5.3)
+		(size 1.9 1.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "6bbd64f3-0cc3-4eb9-a838-21a7482613dc")
+	)
+	(pad "5" thru_hole oval
+		(at 7.775 0 90)
+		(size 2.5 1.2)
+		(drill oval 1.4 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "249f86f8-de63-444a-ab23-271785139811")
+	)
+	(model "${KIPRJMOD}/packages3D/SMD-USB-2.0-AF-13.step"
+		(offset
+			(xyz 0 3.3 -4.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -180)
+		)
+	)
+)

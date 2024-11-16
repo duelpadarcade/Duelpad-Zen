@@ -1,0 +1,237 @@
+(footprint "SMD-LED-WS2812B-3528"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.1 -2.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ffb6de59-2c1b-4a69-945f-687eabc06c77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WS2812B-3528"
+		(at 0.1 3.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5e3d672-ac47-487c-8b82-d6626adde5ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Library:SMD-LED-WS2812B-3528"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9dbd14e1-4950-4cd6-bd45-2cdcad71fbd5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ce29971-250d-4faf-8e7b-59304b56fac3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0bcde293-b6eb-4b4a-be27-7fa7a90e1c44")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1.6 -0.2)
+		(end 1.6 0.2)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5ab05f2c-cb06-45fe-9c81-505c434efa22")
+	)
+	(fp_line
+		(start -1.6 1.4)
+		(end 1.6 1.4)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f38788aa-75b0-4315-927a-7d8ee321331d")
+	)
+	(fp_line
+		(start -1.6 -0.2)
+		(end -1.6 0.2)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2e2b731a-abec-4cb5-b9ee-bd81051a1342")
+	)
+	(fp_line
+		(start -1.6 -1.4)
+		(end 1.6 -1.4)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b09e9b50-2f49-474a-8c17-8daf082389b6")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.5 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "c21e3190-5686-463f-ac66-427ed3e3709f")
+	)
+	(fp_poly
+		(pts
+			(xy 2.8 0.8) (xy 1.9 1.7) (xy 2.8 1.7)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "a9117154-13c1-4503-8062-c3d27f2cc7eb")
+	)
+	(fp_line
+		(start 2 1.4)
+		(end 2 -1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "14926611-3045-45a6-8ec8-86aba7374964")
+	)
+	(fp_line
+		(start 2 -1.4)
+		(end -2 -1.4)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e7c5431c-5d4a-4cde-9325-297620cbba90")
+	)
+	(fp_line
+		(start -2 1.4)
+		(end 2 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c68ca301-c068-4a75-bff1-7b32edf9f532")
+	)
+	(fp_line
+		(start -2 -1.4)
+		(end -2 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ea4f123-2aa9-4eb2-980e-e6e72f1b493c")
+	)
+	(fp_rect
+		(start -1.6 -1.4)
+		(end 1.6 1.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "a6388aa5-2b81-4123-9494-13c40011d52d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e0c94873-1e3d-4fe9-a76c-2b700590c51a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.5 -0.75 90)
+		(size 0.9 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "e86ab7f5-05c6-46ff-a26e-9f316e3e6856")
+	)
+	(pad "2" smd roundrect
+		(at -1.5 0.75 90)
+		(size 0.9 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "17cd4932-68e8-4171-a4a6-e26133ea6eb7")
+	)
+	(pad "3" smd roundrect
+		(at 1.5 0.75 90)
+		(size 0.9 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "289ac11e-1061-4813-ac67-816a14997a3b")
+	)
+	(pad "4" smd roundrect
+		(at 1.5 -0.75 90)
+		(size 0.9 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "b61856c6-021a-4387-90a0-378c79edc5e6")
+	)
+	(model "${KIPRJMOD}/packages3D/SMD-LED-WS2812B-3528.step"
+		(offset
+			(xyz 0 0 -1.65)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

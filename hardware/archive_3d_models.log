@@ -1,0 +1,421 @@
+07-10 10:58:33 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'win32'
+07-10 10:58:33 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.11.5 (main, May 10 2024, 05:24:12) [MSC v.1939 64 bit (AMD64)]'
+07-10 10:58:33 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 8.0.3
+07-10 10:58:33 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.12
+
+07-10 10:58:33 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(1920, 1080)]
+07-10 10:58:33 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+07-10 10:58:33 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 17
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 26:Starting to archive 3D models
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW4
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D16
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D17
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D14
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D9
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D10
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D8
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW6
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D5
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D4
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D12
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H9
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: DS1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/DM-OLED_Panel.stp
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/DM-OLED_Panel.stp
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/FPC-30pin-0.5mm.stp
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/FPC-30pin-0.5mm.stp
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H4
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H5
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D3
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW8
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SW-SMD-TSX103G901.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SW-SMD-TSX103G901.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW5
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SW-Push-1P1T-No-CK-KSC641G.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D11
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H7
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H3
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D15
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H8
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D6
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D7
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/PG151101S11.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/Kailh_PG1353.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/WS2812-2020--3DModel-STEP-1.STEP
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H6
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: USB1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/TYPE-C-16P CB1.6 073.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/TYPE-C-16P CB1.6 073.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U3
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D20
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D48
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C8
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C4
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D23
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R3
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U4
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16_4.4x5mm_P0.65mm.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16_4.4x5mm_P0.65mm.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: TP2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW3
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SW_SPSTx01_6_6_5mm_P1mm.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SW_SPSTx01_6_6_5mm_P1mm.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D37
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: TP1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D13
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C11
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D21
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: TP4
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R4
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D28
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R8
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: TP3
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C16
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D46
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D30
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R10
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D47
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: Y1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C20
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D49
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SMD-USB-2.0-AF-13.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SMD-USB-2.0-AF-13.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C13
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C18
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C23
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R5
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R12
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D39
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C5
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D22
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D42
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R22
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D18
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R17
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R20
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D33
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: USB2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/TYPE-C-16P CB1.6 073.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/TYPE-C-16P CB1.6 073.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C17
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R14
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D34
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R19
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C14
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C6
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C19
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D31
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SOIC-8_5.275x5.275mm_P1.27mm.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SOIC-8_5.275x5.275mm_P1.27mm.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R13
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D19
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R9
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R7
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R18
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C10
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D44
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D27
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C22
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C15
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C12
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: Y2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D36
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R21
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D41
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C7
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R6
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R15
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D24
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D38
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C2
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C9
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C21
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D35
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D43
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R11
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D45
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D29
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C3
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D26
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C1
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R16
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D32
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D25
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D40
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step
+07-10 10:58:34 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/LED-WS2812B-5050.step

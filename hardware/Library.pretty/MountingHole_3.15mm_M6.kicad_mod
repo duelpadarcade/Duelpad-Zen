@@ -1,0 +1,111 @@
+(footprint "MountingHole_3.15mm_M6"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 6.4mm, no annular, M6")
+	(tags "mounting hole 6.4mm no annular m6")
+	(property "Reference" "REF**"
+		(at 0 -7.4 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ac216592-cafc-44ab-b7fd-d089c6b7b433")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MountingHole"
+		(at 0 7.4 0)
+		(layer "F.Fab")
+		(uuid "13a7c49b-cdb7-42de-887e-a9357302c81e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Library:MountingHole_3.15mm_M6"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a31ac9c6-1201-44aa-8e3b-7ffb86515e91")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9889fe9f-31ca-4a2a-a8b3-3703a09ca045")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11d927d1-de58-4de7-96b7-7fe9ccd9eef8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files)
+	(fp_circle
+		(center 0 0)
+		(end 5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "d40a1fce-feee-45b5-b77d-46345a653ac9")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 6 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "bff395f6-6bfe-46de-93ce-e25a0815bf36")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "8ce7ad6c-717b-4460-a1ca-73b7c53aeef3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.15 3.15)
+		(drill 3.15)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "505b6699-88c7-49a0-a3d9-539ccd4b0015")
+	)
+)

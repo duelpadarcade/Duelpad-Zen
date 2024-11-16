@@ -1,0 +1,20 @@
+.pio
+.vscode/
+.cache/
+node_modules/
+configs/MyBoard
+.DS_Store
+build/
+
+.*.sw*
+compile_commands.json
+lib/httpd/fsdata.c
+modules/Custom.cmake
+.idea
+cmake-*
+env.ini
+
+# Container
+.devcontainer
+*Dockerfile
+*docker-compose.yml
